@@ -1,0 +1,15 @@
+:root{
+  --primary-color: black;
+  --secondary-color: rgb(194, 131, 13);
+  --bg-color: rgba(255, 255, 255, 1); 
+} 
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+  margin: 0;
+  line-height: normal;
+}
+
+
